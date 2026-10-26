@@ -1,0 +1,14 @@
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.user
+*.suo
+
+enc_temp_folder/
